@@ -1,0 +1,6 @@
+C:\Users\David w zhang\Desktop\Project\SmartLock_Lumi\SmartLock.cydsn\SmartLock.cyprj|cd3de4b8-24f5-4527-8fc3-c9240372ffe3
+E:\Program Files\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|cfcce9cb-f63b-4afb-a104-372df0315179
+C:\Users\David w zhang\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|ab7ec18c-e801-4eb6-aba3-6cb6c9ab3db4
+E:\Program Files\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|b511b1b0-5253-4375-8ade-b52fc3a317b2
+E:\Program Files\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|e72699c5-f04f-459b-ab86-cae38fc7803e
+E:\Program Files\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|334ba061-f8f4-4e74-af1a-726ca845fb83

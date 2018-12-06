@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="SmartLock\SmartLock\TopDesign">
+<ExpandedNodeIds>
+<v>SmartLock</v>
+<v>SmartLock\SmartLock</v>
+<v>SmartLock\SmartLock\TopDesign</v>
+<v>SmartLock\SmartLock\SmartLock.cydwr</v>
+<v>SmartLock\SmartLock\SmartLock.cydwr\Pins</v>
+<v>SmartLock\SmartLock\SmartLock.cydwr\Analog</v>
+<v>SmartLock\SmartLock\SmartLock.cydwr\DMA</v>
+<v>SmartLock\SmartLock\SmartLock.cydwr\Clocks</v>
+<v>SmartLock\SmartLock\SmartLock.cydwr\Interrupts</v>
+<v>SmartLock\SmartLock\SmartLock.cydwr\System</v>
+<v>SmartLock\SmartLock\SmartLock.cydwr\Directives</v>
+<v>SmartLock\SmartLock\CM0p (Core 0)</v>
+<v>SmartLock\SmartLock\CM0p (Core 0)\ARM GCC Generic\cy8c6xx7_cm0plus.ld</v>
+<v>SmartLock\SmartLock\CM0p (Core 0)\ARM IAR Generic\cy8c6xx7_cm0plus.icf</v>
+<v>SmartLock\SmartLock\CM0p (Core 0)\ARM MDK Generic\cy8c6xx7_cm0plus.scat</v>
+<v>SmartLock\SmartLock\CM0p (Core 0)\Header Files</v>
+<v>SmartLock\SmartLock\CM0p (Core 0)\Source Files</v>
+<v>SmartLock\SmartLock\CM0p (Core 0)\Source Files\ARM GCC Generic</v>
+<v>SmartLock\SmartLock\CM0p (Core 0)\Source Files\ARM GCC Generic\startup_psoc63_cm0plus.S</v>
+<v>SmartLock\SmartLock\CM0p (Core 0)\Source Files\ARM IAR Generic\startup_psoc63_cm0plus.s</v>
+<v>SmartLock\SmartLock\CM0p (Core 0)\Source Files\ARM MDK Generic\startup_psoc63_cm0plus.s</v>
+<v>SmartLock\SmartLock\CM0p (Core 0)\Source Files\main_cm0p.c</v>
+<v>SmartLock\SmartLock\CM0p (Core 0)\Source Files\MyUart.c</v>
+<v>SmartLock\SmartLock\CM0p (Core 0)\Source Files\MyUart.h</v>
+<v>SmartLock\SmartLock\CM0p (Core 0)\Source Files\system_psoc63_cm0plus.c</v>
+<v>SmartLock\SmartLock\CM0p (Core 0)\Source Files\Touch.c</v>
+<v>SmartLock\SmartLock\CM0p (Core 0)\Source Files\Touch.h</v>
+<v>SmartLock\SmartLock\CM4 (Core 1)</v>
+<v>SmartLock\SmartLock\CM4 (Core 1)\ARM GCC Generic</v>
+<v>SmartLock\SmartLock\CM4 (Core 1)\ARM GCC Generic\cy8c6xx7_cm4_dual.ld</v>
+<v>SmartLock\SmartLock\CM4 (Core 1)\ARM IAR Generic</v>
+<v>SmartLock\SmartLock\CM4 (Core 1)\ARM IAR Generic\cy8c6xx7_cm4_dual.icf</v>
+<v>SmartLock\SmartLock\CM4 (Core 1)\ARM MDK Generic\cy8c6xx7_cm4_dual.scat</v>
+<v>SmartLock\SmartLock\CM4 (Core 1)\Header Files</v>
+<v>SmartLock\SmartLock\CM4 (Core 1)\Source Files\ARM GCC Generic</v>
+<v>SmartLock\SmartLock\CM4 (Core 1)\Source Files\ARM GCC Generic\startup_psoc63_cm4.S</v>
+<v>SmartLock\SmartLock\CM4 (Core 1)\Source Files\ARM IAR Generic</v>
+<v>SmartLock\SmartLock\CM4 (Core 1)\Source Files\ARM IAR Generic\startup_psoc63_cm4.s</v>
+<v>SmartLock\SmartLock\CM4 (Core 1)\Source Files\ARM MDK Generic</v>
+<v>SmartLock\SmartLock\CM4 (Core 1)\Source Files\ARM MDK Generic\startup_psoc63_cm4.s</v>
+<v>SmartLock\SmartLock\CM4 (Core 1)\Source Files\main_cm4.c</v>
+<v>SmartLock\SmartLock\CM4 (Core 1)\Source Files\system_psoc63_cm4.c</v>
+<v>SmartLock\SmartLock\Shared Files</v>
+<v>SmartLock\SmartLock\Shared Files\cy_ble_config.h</v>
+<v>SmartLock\SmartLock\Shared Files\cy_crypto_config.c</v>
+<v>SmartLock\SmartLock\Shared Files\cy_crypto_config.h</v>
+<v>SmartLock\SmartLock\Shared Files\cy_ipc_config.c</v>
+<v>SmartLock\SmartLock\Shared Files\cy_ipc_config.h</v>
+<v>SmartLock\SmartLock\Shared Files\cyapicallbacks.h</v>
+<v>SmartLock\SmartLock\Shared Files\system_psoc63.h</v>
+<v>SmartLock\SmartLock\Generated_Source</v>
+<v>SmartLock\SmartLock\Generated_Source\PSoC6</v>
+<v>SmartLock\SmartLock\Generated_Source\PSoC6\CapSense</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>SmartLock</v>
+<v>SmartLock\SmartLock</v>
+<v>SmartLock\SmartLock\TopDesign</v>
+<v>SmartLock\SmartLock\SmartLock.cydwr</v>
+<v>SmartLock\SmartLock\SmartLock.cydwr\Pins</v>
+<v>SmartLock\SmartLock\SmartLock.cydwr\Analog</v>
+<v>SmartLock\SmartLock\SmartLock.cydwr\DMA</v>
+<v>SmartLock\SmartLock\SmartLock.cydwr\Clocks</v>
+<v>SmartLock\SmartLock\SmartLock.cydwr\Interrupts</v>
+<v>SmartLock\SmartLock\SmartLock.cydwr\System</v>
+<v>SmartLock\SmartLock\SmartLock.cydwr\Directives</v>
+<v>SmartLock\SmartLock\CM0p (Core 0)</v>
+<v>SmartLock\SmartLock\CM0p (Core 0)\ARM GCC Generic</v>
+<v>SmartLock\SmartLock\CM0p (Core 0)\ARM IAR Generic</v>
+<v>SmartLock\SmartLock\CM0p (Core 0)\ARM MDK Generic</v>
+<v>SmartLock\SmartLock\CM0p (Core 0)\Header Files</v>
+<v>SmartLock\SmartLock\CM0p (Core 0)\Source Files</v>
+<v>SmartLock\SmartLock\CM0p (Core 0)\Source Files\ARM GCC Generic</v>
+<v>SmartLock\SmartLock\CM0p (Core 0)\Source Files\ARM GCC Generic\startup_psoc63_cm0plus.S</v>
+<v>SmartLock\SmartLock\CM0p (Core 0)\Source Files\ARM IAR Generic</v>
+<v>SmartLock\SmartLock\CM0p (Core 0)\Source Files\ARM MDK Generic</v>
+<v>SmartLock\SmartLock\CM0p (Core 0)\Source Files\main_cm0p.c</v>
+<v>SmartLock\SmartLock\CM0p (Core 0)\Source Files\MyUart.c</v>
+<v>SmartLock\SmartLock\CM0p (Core 0)\Source Files\MyUart.h</v>
+<v>SmartLock\SmartLock\CM0p (Core 0)\Source Files\system_psoc63_cm0plus.c</v>
+<v>SmartLock\SmartLock\CM0p (Core 0)\Source Files\Touch.c</v>
+<v>SmartLock\SmartLock\CM0p (Core 0)\Source Files\Touch.h</v>
+<v>SmartLock\SmartLock\CM4 (Core 1)</v>
+<v>SmartLock\SmartLock\CM4 (Core 1)\ARM GCC Generic</v>
+<v>SmartLock\SmartLock\CM4 (Core 1)\ARM GCC Generic\cy8c6xx7_cm4_dual.ld</v>
+<v>SmartLock\SmartLock\CM4 (Core 1)\ARM IAR Generic</v>
+<v>SmartLock\SmartLock\CM4 (Core 1)\ARM IAR Generic\cy8c6xx7_cm4_dual.icf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>SmartLock</v>
+<v>SmartLock\SmartLock</v>
+<v>SmartLock\SmartLock\TopDesign</v>
+<v>SmartLock\SmartLock\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>SmartLock</v>
+<v>SmartLock\SmartLock</v>
+<v>SmartLock\SmartLock\TopDesign</v>
+<v>SmartLock\SmartLock\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>SmartLock</v>
+<v>SmartLock\SmartLock</v>
+<v>SmartLock\SmartLock\CortexM0p</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_Control.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_Filter.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_INT.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_Processing.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_Sensing.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_SensingCSD_LL.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_Structure.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_Tuner.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_clk.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_crypto_config.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_efuse.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_flash.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_gpio.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_config.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_drv.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_pipe.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_sema.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_lvd.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_profile.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_prot.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_common.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_ezi2c.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_i2c.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_spi.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_uart.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysanalog.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysclk.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysint.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syslib.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syslib_gcc.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syspm.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_systick.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_trigmux.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_wdt.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyfitter_sysint_cfg.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\main_cm0p.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\MyUart.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\SCB.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\startup_psoc63_cm0plus.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\system_psoc63_cm0plus.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\Touch.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\SmartLock.elf</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\SmartLock.hex</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\SmartLock.map</v>
+<v>SmartLock\SmartLock\CortexM4</v>
+<v>SmartLock\SmartLock\CortexM4\ARM_GCC_541</v>
+<v>SmartLock\SmartLock\CortexM4\ARM_GCC_541\Debug</v>
+<v>SmartLock\SmartLock\CortexM4\ARM_GCC_541\Debug\Listing Files</v>
+<v>SmartLock\SmartLock\CortexM4\ARM_GCC_541\Debug\Listing Files\CapSense_Control.lst</v>
+<v>SmartLock\SmartLock\CortexM4\ARM_GCC_541\Debug\Listing Files\CapSense_Filter.lst</v>
+<v>SmartLock\SmartLock\CortexM4\ARM_GCC_541\Debug\Listing Files\CapSense_INT.lst</v>
+<v>SmartLock\SmartLock\CortexM4\ARM_GCC_541\Debug\Listing Files\CapSense_Processing.lst</v>
+<v>SmartLock\SmartLock\CortexM4\ARM_GCC_541\Debug\Listing Files\CapSense_Sensing.lst</v>
+<v>SmartLock\SmartLock\CortexM4\ARM_GCC_541\Debug\Listing Files\CapSense_SensingCSD_LL.lst</v>
+<v>SmartLock\SmartLock\CortexM4\ARM_GCC_541\Debug\Listing Files\CapSense_Structure.lst</v>
+<v>SmartLock\SmartLock\CortexM4\ARM_GCC_541\Debug\Listing Files\CapSense_Tuner.lst</v>
+<v>SmartLock\SmartLock\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_clk.lst</v>
+<v>SmartLock\SmartLock\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_crypto_config.lst</v>
+<v>SmartLock\SmartLock\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_efuse.lst</v>
+<v>SmartLock\SmartLock\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_flash.lst</v>
+<v>SmartLock\SmartLock\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_gpio.lst</v>
+<v>SmartLock\SmartLock\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ipc_config.lst</v>
+<v>SmartLock\SmartLock\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ipc_drv.lst</v>
+<v>SmartLock\SmartLock\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ipc_pipe.lst</v>
+<v>SmartLock\SmartLock\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ipc_sema.lst</v>
+<v>SmartLock\SmartLock\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_lvd.lst</v>
+<v>SmartLock\SmartLock\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_profile.lst</v>
+<v>SmartLock\SmartLock\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_prot.lst</v>
+<v>SmartLock\SmartLock\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_scb_common.lst</v>
+<v>SmartLock\SmartLock\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_scb_ezi2c.lst</v>
+<v>SmartLock\SmartLock\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_scb_i2c.lst</v>
+<v>SmartLock\SmartLock\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_scb_spi.lst</v>
+<v>SmartLock\SmartLock\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_scb_uart.lst</v>
+<v>SmartLock\SmartLock\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_sysanalog.lst</v>
+<v>SmartLock\SmartLock\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_sysclk.lst</v>
+<v>SmartLock\SmartLock\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_sysint.lst</v>
+<v>SmartLock\SmartLock\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_syslib.lst</v>
+<v>SmartLock\SmartLock\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_syslib_gcc.lst</v>
+<v>SmartLock\SmartLock\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_syspm.lst</v>
+<v>SmartLock\SmartLock\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_systick.lst</v>
+<v>SmartLock\SmartLock\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_trigmux.lst</v>
+<v>SmartLock\SmartLock\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_wdt.lst</v>
+<v>SmartLock\SmartLock\CortexM4\ARM_GCC_541\Debug\Listing Files\cyfitter_sysint_cfg.lst</v>
+<v>SmartLock\SmartLock\CortexM4\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>SmartLock\SmartLock\CortexM4\ARM_GCC_541\Debug\Listing Files\main_cm4.lst</v>
+<v>SmartLock\SmartLock\CortexM4\ARM_GCC_541\Debug\Listing Files\SCB.lst</v>
+<v>SmartLock\SmartLock\CortexM4\ARM_GCC_541\Debug\Listing Files\startup_psoc63_cm4.lst</v>
+<v>SmartLock\SmartLock\CortexM4\ARM_GCC_541\Debug\Listing Files\system_psoc63_cm4.lst</v>
+<v>SmartLock\SmartLock\CortexM4\ARM_GCC_541\Debug\Listing Files\UART.lst</v>
+<v>SmartLock\SmartLock\CortexM4\ARM_GCC_541\Debug\SmartLock.elf</v>
+<v>SmartLock\SmartLock\CortexM4\ARM_GCC_541\Debug\SmartLock.hex</v>
+<v>SmartLock\SmartLock\CortexM4\ARM_GCC_541\Debug\SmartLock.map</v>
+<v>SmartLock\SmartLock\SmartLock.gpdsc</v>
+<v>SmartLock\SmartLock\SmartLock.rpt</v>
+<v>SmartLock\SmartLock\SmartLock_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>SmartLock</v>
+<v>SmartLock\SmartLock</v>
+<v>SmartLock\SmartLock\CortexM0p</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_Control.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_Filter.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_INT.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_Processing.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_Sensing.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_SensingCSD_LL.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_Structure.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_Tuner.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_clk.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_crypto_config.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_efuse.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_flash.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_gpio.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_config.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_drv.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_pipe.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_sema.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_lvd.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_profile.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_prot.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_common.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_ezi2c.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_i2c.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_spi.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_uart.lst</v>
+<v>SmartLock\SmartLock\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysanalog.lst</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>SmartLock</v>
+<v>SmartLock\SmartLock</v>
+<v>SmartLock\SmartLock\PSoC 6 Architecture TRM</v>
+<v>SmartLock\SmartLock\PSoC 63 Family Datasheet</v>
+<v>SmartLock\SmartLock\Peripheral Driver Library</v>
+<v>SmartLock\SmartLock\System Reference Guides</v>
+<v>SmartLock\SmartLock\CapSense_v2_0.pdf</v>
+<v>SmartLock\SmartLock\GPIO_PDL_v1_0</v>
+<v>SmartLock\SmartLock\GPIO_PDL_v1_0\GPIO_PDL_v1_0.pdf</v>
+<v>SmartLock\SmartLock\SCB_EZI2C_PDL_v2_0.pdf</v>
+<v>SmartLock\SmartLock\SCB_UART_PDL_v2_0.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>SmartLock</v>
+<v>SmartLock\SmartLock</v>
+<v>SmartLock\SmartLock\PSoC 6 Architecture TRM</v>
+<v>SmartLock\SmartLock\PSoC 63 Family Datasheet</v>
+<v>SmartLock\SmartLock\Peripheral Driver Library</v>
+<v>SmartLock\SmartLock\System Reference Guides</v>
+<v>SmartLock\SmartLock\CapSense_v2_0.pdf</v>
+<v>SmartLock\SmartLock\GPIO_PDL_v1_0</v>
+<v>SmartLock\SmartLock\GPIO_PDL_v1_0\GPIO_PDL_v1_0.pdf</v>
+<v>SmartLock\SmartLock\SCB_EZI2C_PDL_v2_0.pdf</v>
+<v>SmartLock\SmartLock\SCB_UART_PDL_v2_0.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+<dataGuid v="5f2be1a5-0687-4501-bb8c-cf21cb8211bf">
+<CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf type_name="CyDesigner.Common.ProjMgmt.GUI.CyBookmarkData" version="1">
+<indicators />
+</CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\SmartLock.cydsn\SmartLock.cydwr" />
+<name v=".\SmartLock.cydsn\main_cm0p.c" />
+<name v=".\SmartLock.cydsn\Touch.c" />
+<name v=".\SmartLock.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\SmartLock.cydsn\Generated_Source\PSoC6\CapSense.h" />
+<name v=".\SmartLock.cydsn\Generated_Source\PSoC6\CapSense_Configuration.h" />
+<name v=".\SmartLock.cydsn\MyUart.c" />
+<name v=".\SmartLock.cydsn\MyUart.h" />
+<name v=".\SmartLock.cydsn\Touch.h" />
+<name v=".\SmartLock.cydsn\Generated_Source\PSoC6\UART.c" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="737, 424" SelectedTabbedMdiWindow="6a0f3d32-a0ad-4be5-85c3-7816f2933ff7"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="40fe3c28-27d8-42e6-832e-0024b722e515" /><DocumentWindow Key="C:\Users\David w zhang\Desktop\Project\SmartLock_Lumi\SmartLock.cydsn\SmartLock.cydwr" Guid="69cdc5b0-5d6f-48f4-9cd0-b9b10aaded01" /><DocumentWindow Key="C:\Users\David w zhang\Desktop\Project\SmartLock_Lumi\SmartLock.cydsn\main_cm0p.c" Guid="37363fd3-e47c-43da-9d83-6e5ec5262ab2" /><DocumentWindow Key="C:\Users\David w zhang\Desktop\Project\SmartLock_Lumi\SmartLock.cydsn\Touch.c" Guid="3fcc3cc2-5398-4c77-b8d4-7c151ec44af4" /><DocumentWindow Key="C:\Users\David w zhang\Desktop\Project\SmartLock_Lumi\SmartLock.cydsn\TopDesign\TopDesign.cysch" Guid="6a0f3d32-a0ad-4be5-85c3-7816f2933ff7" /><DocumentWindow Key="C:\Users\David w zhang\Desktop\Project\SmartLock_Lumi\SmartLock.cydsn\Generated_Source\PSoC6\CapSense.h" Guid="79cc14de-e3f6-48d3-8125-728a16e549dd" /><DocumentWindow Key="C:\Users\David w zhang\Desktop\Project\SmartLock_Lumi\SmartLock.cydsn\Generated_Source\PSoC6\CapSense_Configuration.h" Guid="605c08d2-b421-475c-8a2c-062b22ff4c40" /><DocumentWindow Key="C:\Users\David w zhang\Desktop\Project\SmartLock_Lumi\SmartLock.cydsn\MyUart.c" Guid="faa67728-dce6-40e8-97ae-1e4464372f34" /><DocumentWindow Key="C:\Users\David w zhang\Desktop\Project\SmartLock_Lumi\SmartLock.cydsn\MyUart.h" Guid="059df5bb-0d0e-40e3-a325-cdfa8d684629" /><DocumentWindow Key="C:\Users\David w zhang\Desktop\Project\SmartLock_Lumi\SmartLock.cydsn\Touch.h" Guid="93b5dfcb-ef54-475e-9a92-73f4af873a3e" /><DocumentWindow Key="C:\Users\David w zhang\Desktop\Project\SmartLock_Lumi\SmartLock.cydsn\Generated_Source\PSoC6\UART.c" Guid="a1afe9b0-9bb3-4cdb-bcca-a72ae6396962" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>

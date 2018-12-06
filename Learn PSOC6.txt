@@ -1,0 +1,39 @@
+FreeRTOSConfig.h  在CM4-Header Files 文件中，是否是FreeRTOS 运行在CM4 中？
+
+2、#include "FreeRTOS.h"  才能使用RTOS
+
+3、PSOC6 BLE 硬件：
+	#GPIO
+	/***
+        P0_3-->RED;
+        P11_1-->BLUE;
+        P1_1-->GREE;
+    ***/
+	#按键：
+	
+
+	#UART:
+		发送：
+		在选用SCB组件后,系统会生产以自定义为名字的<name>.c/<name>.h,其中包括必要文件
+		cy_stc_scb_uart_config_t const <name>_config={};
+		cy_stc_scb_uart_context_t <name>_context;
+		#define <name>_HW     ((CySCB_Type *) <name>_SCB__HW)
+		调用如下函数进行初始化：
+		Cy_SCB_UART_Init (CySCB_Type *base, 
+							cy_stc_scb_uart_config_t const *config, 
+							cy_stc_scb_uart_context_t *context);
+		Cy_SCB_UART_Enable (CySCB_Type *base);
+		调用如下函数发送数据：
+		Cy_SCB_UART_Put (CySCB_Type *base, uint32_t data);
+		Cy_SCB_UART_PutString (CySCB_Type *base, char_t const string[]);
+		
+	
+	#Watch Timer:
+	
+3、驱动熟悉：
+	函数Cy_<Peripheral>_<FunctionName>().
+	Cy_<Peripheral>_Init()		Cy_SCB_UART_Init()
+	Cy_<Peripheral>_DeInit()	Cy_SCB_UART_DeInit()
+	Cy_<Peripheral>_Enable()	Cy_SCB_UART_Enable()
+	Cy_<Peripheral>_Disable()	Cy_SCB_UART_Disable()
+	
